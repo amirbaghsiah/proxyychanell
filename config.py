@@ -12,7 +12,7 @@ NUM_PROXIES_TO_SEND = 9  # تعداد پروکسی‌های ارسالی
 NUM_PROXIES_FOR_USER = 3  # تعداد پروکسی‌های ارسالی به کاربر
 STORAGE_FILE = "stored_proxies.json"  # فایل ذخیره پروکسی‌ها
 MAX_PROXY_AGE_HOURS = 48  # حداکثر عمر پروکسی‌ها (ساعت)
-CHECK_INTERVAL_HOURS = 0.00833  # فاصله زمانی بررسی پروکسی‌های جدید (30 ثانیه)
+CHECK_INTERVAL_HOURS = 6  # فاصله زمانی بررسی پروکسی‌های جدید (30 ثانیه)
 TELEGRAM_BOT_TOKEN = "7063996040:AAHr3hIzfqg_AJ0X-mglakYyASboRyMOlqE"
 # تنظیم کانال تلگرام برای ارسال پروکسی‌ها
 TELEGRAM_CHANNEL_ID = "@server_proxy0"  # کانال جدید برای ارسال پروکسی‌ها
