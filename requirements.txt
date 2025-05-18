@@ -1,3 +1,13 @@
+# کتابخانه‌های اصلی
+python-telegram-bot==20.6
+python-dotenv==1.0.0
+
+# برای دریافت پروکسی از کانال تلگرام
+telethon==1.30.3
+
+# برای بررسی وضعیت پروکسی‌ها
+asyncio==3.4.3
+
+# نصب aiohttp به صورت جداگانه با دستور:
 aiohttp
-python-dotenv
-python-telegram-bot
+cryptg==0.4.0

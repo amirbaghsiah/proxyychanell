@@ -1,0 +1,130 @@
+[
+  {
+    "type": "mtproto",
+    "host": "176.65.136.47",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0780966
+  },
+  {
+    "type": "mtproto",
+    "host": "176.65.128.77",
+    "port": "155",
+    "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0780966
+  },
+  {
+    "type": "mtproto",
+    "host": "65.21.131.91",
+    "port": "155",
+    "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0780966
+  },
+  {
+    "type": "mtproto",
+    "host": "135.181.16.171",
+    "port": "155",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0780966
+  },
+  {
+    "type": "mtproto",
+    "host": "176.65.136.49",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "176.65.128.77",
+    "port": "155",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "92.246.87.10",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "92.246.87.154",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "152.228.207.69",
+    "port": "155",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.154",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.204",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.216",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.220",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.226",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "77.75.230.228",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  },
+  {
+    "type": "mtproto",
+    "host": "91.132.135.35",
+    "port": "155",
+    "secret": "1320PuNyHw_LQKT_Y7XNJw%3D%3D",
+    "source": "telegram_channel",
+    "timestamp": 1747529145.0785966
+  }
+]

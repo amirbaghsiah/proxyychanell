@@ -13,9 +13,10 @@ NUM_PROXIES_FOR_USER = 3  # تعداد پروکسی‌های ارسالی به �
 STORAGE_FILE = "stored_proxies.json"  # فایل ذخیره پروکسی‌ها
 MAX_PROXY_AGE_HOURS = 48  # حداکثر عمر پروکسی‌ها (ساعت)
 CHECK_INTERVAL_HOURS = 0.00833  # فاصله زمانی بررسی پروکسی‌های جدید (30 ثانیه)
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
-SPONSOR_CHANNEL_ID = os.getenv("SPONSOR_CHANNEL_ID", "@proxy_finde")  # کانال اسپانسر - مقدار پیش‌فرض در صورت عدم تعریف در فایل .env
+TELEGRAM_BOT_TOKEN = "7063996040:AAHr3hIzfqg_AJ0X-mglakYyASboRyMOlqE"
+# تنظیم کانال تلگرام برای ارسال پروکسی‌ها
+TELEGRAM_CHANNEL_ID = "@server_proxy0"  # کانال جدید برای ارسال پروکسی‌ها
+SPONSOR_CHANNEL_ID = os.getenv("SPONSOR_CHANNEL_ID", "@server_proxy0")  # کانال اسپانسر - مقدار پیش‌فرض در صورت عدم تعریف در فایل .env
 
 
 # تنظیمات API تلگرام برای دریافت پروکسی‌ها از کانال

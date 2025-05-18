@@ -177,7 +177,7 @@ def format_proxy_message(proxies_to_send):
         message_lines.append(row_text)
     
     # Add channel ID at the end with a clickable link
-    message_lines.append("\n🆔 <a href=\"https://t.me/proxy_finde\">proxyfinder</a>")
+    message_lines.append("\n🆔 <a href=\"https://t.me/server_proxy0\">server_proxy</a>")
     
     # Join all lines with double newlines for better readability
     message = "\n".join(message_lines)
